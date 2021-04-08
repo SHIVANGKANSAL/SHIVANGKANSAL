@@ -13,4 +13,3 @@ SHIVANGKANSAL/SHIVANGKANSAL is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 It is just wonderful to see how people react when they find out that HUSTEL CAN BEAT TALLENT.
-
