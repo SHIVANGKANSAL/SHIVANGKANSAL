@@ -3,8 +3,8 @@
 
 
 - 👋 Hi, I’m @SHIVANGKANSAL
-- 👀 I’m interested in ... Space
-- 🌱 I’m currently learning ... AWS
+- 👀 I’m interested in ... Technology and Car...Although I can be very wrong in predicting the models of the car but I try my best.
+- 🌱 I’m currently learning ... AWS / JAVA & R
 - 💞️ I’m looking to collaborate on ... Discord
 - 📫 How to reach me ... [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" align="center">](https://www.linkedin.com/in/shivang-kansal/)
 - 📫 Know more about me on this we as in a form of Resume ... [Resume](https://sites.google.com/view/shivang-kansal/)
