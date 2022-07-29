@@ -2,7 +2,7 @@
 ### Hi there fellows, Shivang this side
 
 
-- 👋 Hi, I’m @SHIVANGKANSAL
+- 👋 Hi, I’m Shivang Kansal
 
 - 👀 I’m interested in Cloud Computing & Data Analytics
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me -> Drop message here 👉 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="25" align="center">](https://www.linkedin.com/in/shivang-kansal/)
 
-- 📫 Know more about me on this we as in a form of Website ... [Website](https://shivangkansal.github.io/)
+- 📫 Know more about me on this Website 💻 [<img src="https://github.com/SHIVANGKANSAL/SHIVANGKANSAL/blob/main/Shivang%20Kansal.png" width="25" align="center">](https://shivangkansal.github.io/)
 
 <!---
 SHIVANGKANSAL/SHIVANGKANSAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
